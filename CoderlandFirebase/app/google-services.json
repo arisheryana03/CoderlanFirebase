@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "754102111423",
+    "firebase_url": "https://coderland-firebase-9eb6d.firebaseio.com",
+    "project_id": "coderland-firebase-9eb6d",
+    "storage_bucket": "coderland-firebase-9eb6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754102111423:android:4f39b7cfb3a49833c84a0a",
+        "android_client_info": {
+          "package_name": "com.aries.coderlandfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754102111423-4lh5gaii9qksltinv1ri12bn5smlun6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrRwfhJL02Q_1x6iAamOi8WQmd0cUtZBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754102111423-4lh5gaii9qksltinv1ri12bn5smlun6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
